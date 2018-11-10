@@ -1,0 +1,6 @@
+/Users/sebastian.delaroche/csharp/desing-patterns/desing-patterns/bin/Debug/desing-patterns.exe
+/Users/sebastian.delaroche/csharp/desing-patterns/desing-patterns/bin/Debug/desing-patterns.pdb
+/Users/sebastian.delaroche/csharp/desing-patterns/desing-patterns/obj/x86/Debug/desing-patterns.csprojAssemblyReference.cache
+/Users/sebastian.delaroche/csharp/desing-patterns/desing-patterns/obj/x86/Debug/desing-patterns.csproj.CoreCompileInputs.cache
+/Users/sebastian.delaroche/csharp/desing-patterns/desing-patterns/obj/x86/Debug/desing-patterns.exe
+/Users/sebastian.delaroche/csharp/desing-patterns/desing-patterns/obj/x86/Debug/desing-patterns.pdb

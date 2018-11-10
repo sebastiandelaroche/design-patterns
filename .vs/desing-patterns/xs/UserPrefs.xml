@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{07DBDA08-CA1E-4AF5-AA6F-AAAE417B008F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="desing-patterns/patterns/construction/AbstractFactory/Main.cs">
+    <Files>
+      <File FileName="desing-patterns/patterns/construction/AbstractFactory/Main.cs" Line="21" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.desing-patterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
