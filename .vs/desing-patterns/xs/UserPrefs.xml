@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{07DBDA08-CA1E-4AF5-AA6F-AAAE417B008F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="desing-patterns/patterns/construction/MethodFactory/CashClient.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="desing-patterns/patterns/construction/Prototype/ClientDocumentation.cs">
     <Files>
-      <File FileName="desing-patterns/patterns/construction/MethodFactory/Main.cs" Line="10" Column="20" />
-      <File FileName="desing-patterns/patterns/construction/MethodFactory/Client.cs" Line="22" Column="35" />
-      <File FileName="desing-patterns/patterns/construction/MethodFactory/CashClient.cs" Line="11" Column="6" />
+      <File FileName="desing-patterns/patterns/construction/Prototype/Main.cs" Line="16" Column="1" />
+      <File FileName="desing-patterns/patterns/construction/Prototype/ClientDocumentation.cs" Line="24" Column="41" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
