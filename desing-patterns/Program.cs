@@ -22,7 +22,9 @@ namespace desingpatterns
 
             // new desingpatterns.patterns.construction.AbstractFactory.Main().execute();
 
-            new desingpatterns.patterns.construction.Builder.Main().execute();
+            // new desingpatterns.patterns.construction.Builder.Main().execute();
+
+            new desingpatterns.patterns.construction.MethodFactory.Main().execute();
         }
     }
 }

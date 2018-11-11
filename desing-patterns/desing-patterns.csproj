@@ -52,12 +52,20 @@
     <Compile Include="patterns\construction\Builder\HTMLVehicleDocumentationBuilder.cs" />
     <Compile Include="patterns\construction\Builder\PDFVehicleDocumentationBuilder.cs" />
     <Compile Include="patterns\construction\Builder\Seller.cs" />
+    <Compile Include="patterns\construction\MethodFactory\Main.cs" />
+    <Compile Include="patterns\construction\MethodFactory\Order.cs" />
+    <Compile Include="patterns\construction\MethodFactory\CreditOrder.cs" />
+    <Compile Include="patterns\construction\MethodFactory\CashOrder.cs" />
+    <Compile Include="patterns\construction\MethodFactory\Client.cs" />
+    <Compile Include="patterns\construction\MethodFactory\CashClient.cs" />
+    <Compile Include="patterns\construction\MethodFactory\CreditClient.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="patterns\" />
     <Folder Include="patterns\construction\" />
     <Folder Include="patterns\construction\AbstractFactory\" />
     <Folder Include="patterns\construction\Builder\" />
+    <Folder Include="patterns\construction\MethodFactory\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
