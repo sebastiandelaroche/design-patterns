@@ -67,6 +67,8 @@
     <Compile Include="patterns\construction\Prototype\Documentation.cs" />
     <Compile Include="patterns\construction\Prototype\EmptyDocumentation.cs" />
     <Compile Include="patterns\construction\Prototype\ClientDocumentation.cs" />
+    <Compile Include="patterns\construction\Singleton\Main.cs" />
+    <Compile Include="patterns\construction\Singleton\Commercial.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="patterns\" />
@@ -75,6 +77,7 @@
     <Folder Include="patterns\construction\Builder\" />
     <Folder Include="patterns\construction\MethodFactory\" />
     <Folder Include="patterns\construction\Prototype\" />
+    <Folder Include="patterns\construction\Singleton\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,10 +1,5 @@
 ﻿<Properties StartupConfiguration="{07DBDA08-CA1E-4AF5-AA6F-AAAE417B008F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="desing-patterns/patterns/construction/Prototype/ClientDocumentation.cs">
-    <Files>
-      <File FileName="desing-patterns/patterns/construction/Prototype/Main.cs" Line="16" Column="1" />
-      <File FileName="desing-patterns/patterns/construction/Prototype/ClientDocumentation.cs" Line="24" Column="41" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
