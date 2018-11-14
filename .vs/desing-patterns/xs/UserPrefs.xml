@@ -1,5 +1,14 @@
 ﻿<Properties StartupConfiguration="{07DBDA08-CA1E-4AF5-AA6F-AAAE417B008F}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="desing-patterns/patterns/structuring/Adapter/PDFComponent.cs">
+    <Files>
+      <File FileName="desing-patterns/patterns/structuring/Adapter/Main.cs" Line="8" Column="50" />
+      <File FileName="desing-patterns/Program.cs" Line="36" Column="78" />
+      <File FileName="desing-patterns/patterns/structuring/Adapter/Document.cs" Line="7" Column="21" />
+      <File FileName="desing-patterns/patterns/structuring/Adapter/HTMLDocument.cs" Line="32" Column="1" />
+      <File FileName="desing-patterns/patterns/structuring/Adapter/PDFDocument.cs" Line="1" Column="1" />
+      <File FileName="desing-patterns/patterns/structuring/Adapter/PDFComponent.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

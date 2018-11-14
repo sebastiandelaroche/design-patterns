@@ -69,6 +69,11 @@
     <Compile Include="patterns\construction\Prototype\ClientDocumentation.cs" />
     <Compile Include="patterns\construction\Singleton\Main.cs" />
     <Compile Include="patterns\construction\Singleton\Commercial.cs" />
+    <Compile Include="patterns\structuring\Adapter\Main.cs" />
+    <Compile Include="patterns\structuring\Adapter\HTMLDocument.cs" />
+    <Compile Include="patterns\structuring\Adapter\Document.cs" />
+    <Compile Include="patterns\structuring\Adapter\PDFDocument.cs" />
+    <Compile Include="patterns\structuring\Adapter\PDFComponent.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="patterns\" />
@@ -78,6 +83,8 @@
     <Folder Include="patterns\construction\MethodFactory\" />
     <Folder Include="patterns\construction\Prototype\" />
     <Folder Include="patterns\construction\Singleton\" />
+    <Folder Include="patterns\structuring\" />
+    <Folder Include="patterns\structuring\Adapter\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

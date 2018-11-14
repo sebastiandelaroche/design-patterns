@@ -19,6 +19,7 @@ namespace desingpatterns
     {
         public static void Main(string[] args)
         {
+            // construction
 
             // new desingpatterns.patterns.construction.AbstractFactory.Main().execute();
 
@@ -28,7 +29,11 @@ namespace desingpatterns
 
             // new desingpatterns.patterns.construction.Prototype.Main().execute();
 
-            new desingpatterns.patterns.construction.Singleton.Main().execute();
+            // new desingpatterns.patterns.construction.Singleton.Main().execute();
+
+            // structuring
+
+            new desingpatterns.patterns.structuring.Adapter.Main().execute();
 
         }
     }
