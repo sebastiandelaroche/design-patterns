@@ -74,6 +74,13 @@
     <Compile Include="patterns\structuring\Adapter\Document.cs" />
     <Compile Include="patterns\structuring\Adapter\PDFDocument.cs" />
     <Compile Include="patterns\structuring\Adapter\PDFComponent.cs" />
+    <Compile Include="patterns\structuring\Bridge\Main.cs" />
+    <Compile Include="patterns\structuring\Bridge\ImplementForm.cs" />
+    <Compile Include="patterns\structuring\Bridge\HTMLImplementForm.cs" />
+    <Compile Include="patterns\structuring\Bridge\AppletImplementForm.cs" />
+    <Compile Include="patterns\structuring\Bridge\EnrollmentForm.cs" />
+    <Compile Include="patterns\structuring\Bridge\EnrollmentFormSpain.cs" />
+    <Compile Include="patterns\structuring\Bridge\EnrollmentFormPortugal.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="patterns\" />
@@ -85,6 +92,7 @@
     <Folder Include="patterns\construction\Singleton\" />
     <Folder Include="patterns\structuring\" />
     <Folder Include="patterns\structuring\Adapter\" />
+    <Folder Include="patterns\structuring\Bridge\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

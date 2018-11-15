@@ -33,7 +33,9 @@ namespace desingpatterns
 
             // structuring
 
-            new desingpatterns.patterns.structuring.Adapter.Main().execute();
+            // new desingpatterns.patterns.structuring.Adapter.Main().execute();
+
+            new desingpatterns.patterns.structuring.Bridge.Main().execute();
 
         }
     }
