@@ -18,8 +18,6 @@ namespace desingpatterns.patterns.structuring.Composite
         {
             double cost = 0.0;
 
-            Console.WriteLine(nVehicles.ToString());
-
             this.filiales.ForEach((Company filial) => {
                 cost = cost + filial.calculateCostMaintenance();
             });
