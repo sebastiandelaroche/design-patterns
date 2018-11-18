@@ -1,14 +1,13 @@
 ﻿<Properties StartupConfiguration="{07DBDA08-CA1E-4AF5-AA6F-AAAE417B008F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="desing-patterns/patterns/structuring/Bridge/EnrollmentFormPortugal.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="desing-patterns/patterns/structuring/Bridge/EnrollmentForm.cs">
     <Files>
-      <File FileName="desing-patterns/patterns/structuring/Bridge/Main.cs" Line="8" Column="47" />
-      <File FileName="desing-patterns/Program.cs" Line="38" Column="59" />
-      <File FileName="desing-patterns/patterns/structuring/Bridge/ImplementForm.cs" Line="9" Column="2" />
-      <File FileName="desing-patterns/patterns/structuring/Bridge/HTMLImplementForm.cs" Line="16" Column="2" />
+      <File FileName="desing-patterns/patterns/construction/Builder/Main.cs" Line="18" Column="1" />
+      <File FileName="desing-patterns/patterns/construction/Builder/HTMLVehicleDocumentationBuilder.cs" Line="9" Column="55" />
+      <File FileName="desing-patterns/patterns/construction/Builder/VehicleDocumentationBuilder.cs" Line="13" Column="38" />
+      <File FileName="desing-patterns/patterns/structuring/Bridge/Main.cs" Line="8" Column="64" />
       <File FileName="desing-patterns/patterns/structuring/Bridge/AppletImplementForm.cs" Line="13" Column="20" />
-      <File FileName="desing-patterns/patterns/structuring/Bridge/EnrollmentForm.cs" Line="31" Column="52" />
-      <File FileName="desing-patterns/patterns/structuring/Bridge/EnrollmentFormSpain.cs" Line="10" Column="43" />
-      <File FileName="desing-patterns/patterns/structuring/Bridge/EnrollmentFormPortugal.cs" Line="4" Column="36" />
+      <File FileName="desing-patterns/patterns/structuring/Bridge/EnrollmentFormPortugal.cs" Line="14" Column="1" />
+      <File FileName="desing-patterns/patterns/structuring/Bridge/EnrollmentForm.cs" Line="10" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

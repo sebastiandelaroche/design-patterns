@@ -81,6 +81,10 @@
     <Compile Include="patterns\structuring\Bridge\EnrollmentForm.cs" />
     <Compile Include="patterns\structuring\Bridge\EnrollmentFormSpain.cs" />
     <Compile Include="patterns\structuring\Bridge\EnrollmentFormPortugal.cs" />
+    <Compile Include="patterns\structuring\Composite\Main.cs" />
+    <Compile Include="patterns\structuring\Composite\Company.cs" />
+    <Compile Include="patterns\structuring\Composite\CompanyWithoutFilial.cs" />
+    <Compile Include="patterns\structuring\Composite\MotherCompany.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="patterns\" />
@@ -93,6 +97,7 @@
     <Folder Include="patterns\structuring\" />
     <Folder Include="patterns\structuring\Adapter\" />
     <Folder Include="patterns\structuring\Bridge\" />
+    <Folder Include="patterns\structuring\Composite\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
