@@ -91,6 +91,13 @@
     <Compile Include="patterns\structuring\Decorator\Decorator.cs" />
     <Compile Include="patterns\structuring\Decorator\ModelDecorator.cs" />
     <Compile Include="patterns\structuring\Decorator\BrandDecorator.cs" />
+    <Compile Include="patterns\structuring\Facade\Catalog.cs" />
+    <Compile Include="patterns\structuring\Facade\CatalogComponent.cs" />
+    <Compile Include="patterns\structuring\Facade\DocumentManagement.cs" />
+    <Compile Include="patterns\structuring\Facade\DocumentManagementComponent.cs" />
+    <Compile Include="patterns\structuring\Facade\AutoWebService.cs" />
+    <Compile Include="patterns\structuring\Facade\ImplementationAutoWebService.cs" />
+    <Compile Include="patterns\structuring\Facade\Main.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="patterns\" />
@@ -105,6 +112,7 @@
     <Folder Include="patterns\structuring\Bridge\" />
     <Folder Include="patterns\structuring\Composite\" />
     <Folder Include="patterns\structuring\Decorator\" />
+    <Folder Include="patterns\structuring\Facade\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

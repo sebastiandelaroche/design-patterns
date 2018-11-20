@@ -39,7 +39,9 @@ namespace desingpatterns
 
             // new desingpatterns.patterns.structuring.Composite.Main().execute();
 
-            new desingpatterns.patterns.structuring.Decorator.Main().execute();
+            // new desingpatterns.patterns.structuring.Decorator.Main().execute();
+
+            new desingpatterns.patterns.structuring.Facade.Main().execute();
 
         }
     }
