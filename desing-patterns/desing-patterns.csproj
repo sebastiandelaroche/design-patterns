@@ -98,6 +98,10 @@
     <Compile Include="patterns\structuring\Facade\AutoWebService.cs" />
     <Compile Include="patterns\structuring\Facade\ImplementationAutoWebService.cs" />
     <Compile Include="patterns\structuring\Facade\Main.cs" />
+    <Compile Include="patterns\structuring\Flyweight\Main.cs" />
+    <Compile Include="patterns\structuring\Flyweight\VehicleOption.cs" />
+    <Compile Include="patterns\structuring\Flyweight\OptionFactory.cs" />
+    <Compile Include="patterns\structuring\Flyweight\RequestedVehicle.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="patterns\" />
@@ -113,6 +117,7 @@
     <Folder Include="patterns\structuring\Composite\" />
     <Folder Include="patterns\structuring\Decorator\" />
     <Folder Include="patterns\structuring\Facade\" />
+    <Folder Include="patterns\structuring\Flyweight\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

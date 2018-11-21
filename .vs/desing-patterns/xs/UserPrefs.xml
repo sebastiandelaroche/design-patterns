@@ -1,21 +1,5 @@
 ﻿<Properties StartupConfiguration="{07DBDA08-CA1E-4AF5-AA6F-AAAE417B008F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="desing-patterns/Program.cs">
-    <Files>
-      <File FileName="desing-patterns/patterns/structuring/Decorator/Main.cs" Line="9" Column="85" />
-      <File FileName="desing-patterns/patterns/structuring/Decorator/VehicleView.cs" Line="12" Column="1" />
-      <File FileName="desing-patterns/patterns/structuring/Decorator/Decorator.cs" Line="16" Column="10" />
-      <File FileName="desing-patterns/patterns/structuring/Decorator/ModelDecorator.cs" Line="10" Column="61" />
-      <File FileName="desing-patterns/patterns/structuring/Decorator/BrandDecorator.cs" Line="16" Column="37" />
-      <File FileName="desing-patterns/patterns/structuring/Facade/Catalog.cs" Line="8" Column="15" />
-      <File FileName="desing-patterns/patterns/structuring/Facade/CatalogComponent.cs" Line="27" Column="13" />
-      <File FileName="desing-patterns/patterns/structuring/Facade/DocumentManagement.cs" Line="6" Column="34" />
-      <File FileName="desing-patterns/patterns/structuring/Facade/DocumentManagementComponent.cs" Line="8" Column="45" />
-      <File FileName="desing-patterns/patterns/structuring/Facade/AutoWebService.cs" Line="12" Column="1" />
-      <File FileName="desing-patterns/patterns/structuring/Facade/ImplementationAutoWebService.cs" Line="14" Column="52" />
-      <File FileName="desing-patterns/patterns/structuring/Facade/Main.cs" Line="20" Column="38" />
-      <File FileName="desing-patterns/Program.cs" Line="44" Column="59" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
