@@ -43,7 +43,9 @@ namespace desingpatterns
 
             // new desingpatterns.patterns.structuring.Facade.Main().execute();
 
-            new desingpatterns.patterns.structuring.Flyweight.Main().execute();
+            // new desingpatterns.patterns.structuring.Flyweight.Main().execute();
+
+            new desingpatterns.patterns.structuring.Proxy.Main().execute();
 
         }
     }

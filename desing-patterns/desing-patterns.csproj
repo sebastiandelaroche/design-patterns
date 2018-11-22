@@ -102,6 +102,10 @@
     <Compile Include="patterns\structuring\Flyweight\VehicleOption.cs" />
     <Compile Include="patterns\structuring\Flyweight\OptionFactory.cs" />
     <Compile Include="patterns\structuring\Flyweight\RequestedVehicle.cs" />
+    <Compile Include="patterns\structuring\Proxy\Main.cs" />
+    <Compile Include="patterns\structuring\Proxy\Animation.cs" />
+    <Compile Include="patterns\structuring\Proxy\Video.cs" />
+    <Compile Include="patterns\structuring\Proxy\AnimationProxy.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="patterns\" />
@@ -118,6 +122,7 @@
     <Folder Include="patterns\structuring\Decorator\" />
     <Folder Include="patterns\structuring\Facade\" />
     <Folder Include="patterns\structuring\Flyweight\" />
+    <Folder Include="patterns\structuring\Proxy\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
